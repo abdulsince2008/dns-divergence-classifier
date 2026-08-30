@@ -1,0 +1,6 @@
+# Sample domains for batch testing
+# One domain per line, lines starting with # are ignored
+google.com
+cloudflare.com
+github.com
+example.com
